@@ -13,3 +13,7 @@ R= É um local onde são guardados os arquivos e projetos.
 4 - O que é merge?
 
 R= É a junção de duas ou mais branch.
+
+5 - O que é pull?
+
+R= O pull é uma função que tem o objetivo de receber informações do repositorio remoto para o repositorio local.
