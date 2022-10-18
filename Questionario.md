@@ -25,3 +25,7 @@ R= É a ramificação dos repositorios.
 8 - O que é pull request?
 
 R= É usado para solitação de alteração do repositorio do terceiro.
+
+9 - O que é fork?
+
+R= É uma função que faz a cópia do repositório de terceiros, para o seu repositório remoto.
