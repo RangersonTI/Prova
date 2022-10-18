@@ -21,3 +21,7 @@ R= O pull é uma função que tem o objetivo de receber informações do reposit
 7 - O que é branch?
 
 R= É a ramificação dos repositorios.
+
+8 - O que é pull request?
+
+R= É usado para solitação de alteração do repositorio do terceiro.
