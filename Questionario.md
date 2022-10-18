@@ -29,3 +29,7 @@ R= É usado para solitação de alteração do repositorio do terceiro.
 9 - O que é fork?
 
 R= É uma função que faz a cópia do repositório de terceiros, para o seu repositório remoto.
+
+10 - O que é um VCS?
+
+R= É um Sistema de Controle de Versão.
